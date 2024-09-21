@@ -1,4 +1,4 @@
-###Live Multimodal Language Translation System | Python
+Live Multimodal Language Translation System | Python
 
 Developed a real-time translation tool for text, voice, images, and documents. Utilized the Google Translate
 
